@@ -42,3 +42,17 @@ Decision-support prototype only. It does not approve or deny a mortgage. Do not 
 - Added regression expectations for all three supplied synthetic cases.
 - Demo mode remains deterministic and does not require an API key.
 - Production hardening still requires authentication, authorization, secure storage, retention policy, audit logging and full compliance/security review.
+
+## Advanced engine (v2.1)
+
+- `lib/engine.ts`: deterministic rules engine ported from a verified Python
+  engine — front- and back-end DTI, middle-of-three credit-score selection,
+  unsourced-deposit exclusion, cash-required vs verified-assets gap, reserves
+  in months, and 16 audited rules. Every function is total: bad input can
+  never throw.
+- `npm test`: 47 vitest cases covering calculation math, the three fixture
+  scenarios end-to-end, edge cases (zero/negative/missing income, malformed
+  input), and report generation.
+- UI additions: scenario **Compare** tab, per-finding **audit-trail**
+  expander (rule inputs + evidence), editable **assumptions panel** with
+  sanitized inputs, and JSON + Markdown export.
