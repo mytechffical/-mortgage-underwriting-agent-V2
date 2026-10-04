@@ -1,0 +1,11 @@
+SYNTHETIC BORROWER TEST DATA - NOT REAL RECORDS
+All borrower identities, employers, lenders, accounts, values and property identifiers are fictional.
+These TXT files are readable test summaries, not authentic legal, tax, banking, credit or appraisal forms.
+Borrower: Maya Sample. Test property: TEST-HOUSE-001, Los Angeles County, California.
+
+Document: Fictional bank statement. Institution: Example Bank. Account holder: Maya Sample.
+Account ending: 2001. Period: 2026-08-01 through 2026-08-31.
+Opening balance: $70,000.
+2026-08-15 payroll deposit: $3,500. 2026-08-31 payroll deposit: $3,500.
+2026-08-31 aggregate ordinary withdrawals: $2,000.
+Ending balance: $75,000. This abbreviated fixture lists the complete aggregate activity used by the test.

@@ -1,0 +1,10 @@
+SYNTHETIC BORROWER TEST DATA - NOT REAL RECORDS
+All borrower identities, employers, lenders, accounts, values and property identifiers are fictional.
+These TXT files are readable test summaries, not authentic legal, tax, banking, credit or appraisal forms.
+Borrower: Maya Sample. Test property: TEST-HOUSE-001, Los Angeles County, California.
+
+Document: Fictional appraisal summary dated 2026-09-28.
+Property: TEST-HOUSE-001. One-unit detached site-built principal residence, fee-simple ownership.
+Appraised value: $410,000. Purchase contract price: $400,000.
+Summary reports year-round residential use, ordinary access/utilities and no stated repairs.
+No property-risk clearance is implied. This is not an actual appraisal or complete collateral review.

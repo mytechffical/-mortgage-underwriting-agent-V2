@@ -1,0 +1,15 @@
+SYNTHETIC BORROWER TEST DATA - NOT REAL RECORDS
+All borrower identities, employers, lenders, accounts, values and property identifiers are fictional.
+These TXT files are readable test summaries, not authentic legal, tax, banking, credit or appraisal forms.
+Borrower: Maya Sample. Test property: TEST-HOUSE-001, Los Angeles County, California.
+
+Document: Fictional proposed loan/housing worksheet dated 2026-10-02.
+Loan amount: $320,000. Fully amortizing 30-year fixed-rate first mortgage. Rate: 6.500%.
+Estimated monthly principal and interest: $2,022.62.
+Monthly property-tax estimate: $600. Monthly homeowners insurance estimate: $177.38.
+HOA dues, special assessments, ground rent, subordinate payments and mortgage insurance: $0 in this fixture.
+Total proposed qualifying monthly housing payment: $2,800.
+Estimated closing costs including assumed prepaids/escrows: $12,000.
+No seller/lender credits, earnest money offsets, financed fees or other cash adjustments.
+Cash required estimate: $80,000 down payment plus $12,000 costs.
+This estimate is not a real Loan Estimate, Closing Disclosure, tax assessment or insurance binder.

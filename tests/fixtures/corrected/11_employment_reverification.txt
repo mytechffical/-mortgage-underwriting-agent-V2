@@ -1,0 +1,12 @@
+SYNTHETIC BORROWER TEST DATA - NOT REAL RECORDS
+All borrower identities, employers, lenders, accounts, values and property identifiers are fictional.
+These TXT files are readable test summaries, not authentic legal, tax, banking, credit or appraisal forms.
+Borrower: Maya Sample. Test property: TEST-HOUSE-001, Los Angeles County, California.
+
+Document: Fictional lender employment-reverification call log.
+Call date: 2026-09-30. Planned note date: 2026-10-09.
+Verification completed by Alex Example, Example Lender Processor.
+Employer contact: Jordan Example, Example Engineering Company HR Manager.
+Contact source: fictitious employer directory; real verification would require an independently obtained valid contact.
+Reported current status: actively employed, full-time salaried; no reported leave or termination.
+This is test evidence, not a real phone call or independently authenticated verification.

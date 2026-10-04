@@ -1,0 +1,21 @@
+SYNTHETIC BORROWER TEST DATA - NOT REAL RECORDS
+All borrower identities, employers, lenders, accounts, values and property identifiers are fictional.
+These TXT files are readable test summaries, not authentic legal, tax, banking, credit or appraisal forms.
+Borrower: Maya Sample. Test property: TEST-HOUSE-001, Los Angeles County, California.
+
+Document: Fictional loan application summary. Date: 2026-10-02.
+Program: FNMA_MANUAL_FIXED_PURCHASE_1UNIT_PRIMARY_MVP.
+Loan type: Conventional conforming first mortgage; purchase; 30-year fully amortizing fixed rate; manual-underwriting review path.
+Property type: Existing one-unit detached site-built home; fee-simple ownership; borrower-occupied primary residence; no condo, PUD, co-op, manufactured housing or ADU.
+Borrower is an adult individual and will occupy and take title to the property.
+Current living arrangement: renting; no other owned or financed real estate.
+Purchase price: $400,000. Loan amount: $320,000. Down payment: $80,000 from own funds.
+Stated annual base salary: $120,000. Salary is the only income requested for qualification.
+No bonus, commission, overtime, rental or self-employment income is used.
+Proposed monthly housing payment: $2,800, including principal, interest, taxes and property insurance.
+Auto payment: $1,800 per month. Credit card payment: $100 per month.
+Student payment: $0; borrower declares no student loans.
+Other monthly debt: $0; borrower declares no other recurring debt or support obligation.
+Checking account balance: $95,000. Savings ending balance: $0; do not add the prior transferred funds again.
+Estimated closing costs: $12,000. No seller/lender credits, earnest money offsets or subordinate financing.
+Application date: 2026-10-02. Planned note date: 2026-10-09.

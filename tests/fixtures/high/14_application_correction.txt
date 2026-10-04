@@ -1,0 +1,10 @@
+SYNTHETIC BORROWER TEST DATA - NOT REAL RECORDS
+All borrower identities, employers, lenders, accounts, values and property identifiers are fictional.
+These TXT files are readable test summaries, not authentic legal, tax, banking, credit or appraisal forms.
+Borrower: Maya Sample. Test property: TEST-HOUSE-001, Los Angeles County, California.
+
+Document: Fictional borrower correction dated 2026-10-02.
+The current application states annual salary $120,000, consistent with fixed-pay evidence.
+Only base salary is used. No request to qualify with bonus income is made.
+The $20,000 deposit is the matched transfer from own savings account ending 2002.
+No borrowed, gifted or business funds are used. This fixture correction is not an authenticated certification.

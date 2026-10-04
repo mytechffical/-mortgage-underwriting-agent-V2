@@ -1,0 +1,14 @@
+SYNTHETIC BORROWER TEST DATA - NOT REAL RECORDS
+All borrower identities, employers, lenders, accounts, values and property identifiers are fictional.
+These TXT files are readable test summaries, not authentic legal, tax, banking, credit or appraisal forms.
+Borrower: Maya Sample. Test property: TEST-HOUSE-001, Los Angeles County, California.
+
+Document: Fictional three-bureau merged credit summary. Report date: 2026-10-01.
+Subject: Maya Sample. Fictional reporting vendor: Example Credit Vendor.
+Classic mortgage score examples: Equifax 748, Experian 760, TransUnion 772.
+No frozen file, dispute, derogatory event, collection, judgment or bankruptcy is reported in this fixture.
+Auto installment loan: required monthly payment $1,800; 48 payments remaining; current.
+Revolving credit card: balance $3,000; required minimum monthly payment $100; current.
+No student loans, leases, mortgage debt, additional tradelines or undisclosed credit inquiries reported.
+Borrower declaration separately states no support obligations or other monthly debt.
+These values are invented and do not constitute an actual approved-vendor report.

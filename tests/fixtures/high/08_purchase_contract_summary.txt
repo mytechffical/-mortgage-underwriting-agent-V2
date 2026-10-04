@@ -1,0 +1,14 @@
+SYNTHETIC BORROWER TEST DATA - NOT REAL RECORDS
+All borrower identities, employers, lenders, accounts, values and property identifiers are fictional.
+These TXT files are readable test summaries, not authentic legal, tax, banking, credit or appraisal forms.
+Borrower: Maya Sample. Test property: TEST-HOUSE-001, Los Angeles County, California.
+
+Document: Fictional purchase contract summary dated 2026-09-25.
+Property: TEST-HOUSE-001, Los Angeles County, California.
+Existing one-unit detached site-built home, fee-simple ownership, primary residence.
+No condo/PUD/co-op, manufactured housing, ADU, leasehold, rental units or renovation financing.
+Purchase price: $400,000. First mortgage: $320,000.
+Down payment: $80,000. Estimated total closing costs: $12,000.
+No seller concessions, credits, subordinate lien, prepaid earnest money or other cash adjustments.
+Planned note/closing date: 2026-10-09. No relationship between buyer and seller is declared.
+Fictional summary only, not an executed contract or title report.
